@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SantanderDevWeek</string>
+    <string name="text_saldo_disponivel">Saldo disponível</string>
+    <string name="text_saldo_limite">Saldo + Limite:</string>
+    <string name="text_cliente">Rogaciano</string>
+    <string name="text_agencia">Ag</string>
+    <string name="text_conta_corrente">Cc</string>
+    <string name="text_saldo">R$</string>
+    <string name="text_ver_extrato">Ver extrato</string>
+    <string name="text_pagar">Pagar</string>
+    <string name="text_transferir">Transferir</string>
+    <string name="text_recarga">Recarga</string>
+    <string name="text_cartao_final">Cartão final</string>
+    <string name="text_numero_cartao">0083</string>
+    <string name="text_menu_1">Menu 1</string>
+    <string name="text_sifrao_saldo_limite">R$</string>
+    <string name="text_numero_agencia">2030</string>
+    <string name="text_numero_conta_corrente">01000696-0</string>
+    <string name="text_sifrao_saldo">R$</string>
+    <string name="text_valor_saldo">1.342,50</string>
+    <string name="text_ola">Olá,</string>
+    <string name="menu_1">sino</string>
+    <string name="text_valor_saldo_limite">18.324,62</string>
+    <string name="text_sino">sino</string>
+</resources>
